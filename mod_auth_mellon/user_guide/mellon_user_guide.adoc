@@ -1,6 +1,6 @@
-= mod_auth_mellon Overview
+= mod_auth_mellon User Guide
 John Dennis <jdennis@redhat.com>
-v1.1, 2017-06-15
+v1.2, 2017-06-15
 :toc: left
 :toclevels: 3
 :numbered:
